@@ -10,7 +10,7 @@ import "channels"
 import 'jquery'
 import "script.js"
 import Swiper from 'swiper/swiper-bundle.js';
-import 'swiper-bundle.css';
+import 'swiper/swiper-bundle.css';
 
 Rails.start()
 Turbolinks.start()

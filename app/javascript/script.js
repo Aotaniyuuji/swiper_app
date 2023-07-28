@@ -13,7 +13,7 @@ const opt = {
   pagination: {
     el: '.swiper-pagination',
   },
-  navgation: {
+  navigation: {
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',
   }
